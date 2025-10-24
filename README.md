@@ -1,90 +1,129 @@
-# 👑 BASIC WEB DEVELOPMENT PROJECTS — By **Adithya Subhash**
-
-> *A mini-portfolio showcasing polished frontend projects with animations, game logic, and premium UI aesthetics.*
+<h1 align="center">👑 Royal Frontend Mini-Apps Vault — By <strong>Adithya Subhash</strong></h1>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/HTML-5-orange?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/CSS-3-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/JavaScript-ES6-yellow?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Projects-4+-brightgreen?style=for-the-badge" />
+  <img src="./assets/royal.png" width="120" alt="Royal Logo"/>
+</p>
+
+<p align="center">
+  A curated collection of interactive frontend projects —
+  designed with premium UX, animations, and a bold 
+  <strong>“Dark Royal Aesthetic”</strong> ✨
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Frontend-Portfolio-ffd700?style=for-the-badge&logo=html5" />
+  <img src="https://img.shields.io/badge/HTML-100%25-orange?style=for-the-badge&logo=html5" />
+  <img src="https://img.shields.io/badge/CSS-100%25-blue?style=for-the-badge&logo=css3" />
+  <img src="https://img.shields.io/badge/JavaScript-ES6-yellow?style=for-the-badge&logo=javascript" />
 </p>
 
 ---
 
-## 🌐 Live Demo
+## 🏰 Live Royal Demo
+> *Hosted on GitHub Pages* ✅
+> (Click ↓ after deployment)
 
-🚀 **Hosted Here**  
-🔗 *Add your GitHub Pages Link after deployment*  
-```bash
-https://yourusername.github.io/basic-project/
-🎮 Included Projects
-Project	Description	Stack	Preview
-🔢 Number Guessing Game	Fully animated game with win/lose screens, confetti, logic & attempts counter	HTML • CSS • JS	GIF Preview Coming Soon
-⚖️ BMI Calculator	Input validation + Enter support + dynamic category display	HTML • CSS • JS	GIF Preview Coming Soon
-⏱️ Royal Clock	Live analog + digital + theme switch gradients	HTML • CSS • JS	GIF Preview Coming Soon
-🧩 (More Incoming…)	Expanding mini-portfolio	—	—
+🔗 https://YOUR-USERNAME.github.io/BASIC_PROJECT/
 
-These aren’t just utilities — they are designed like royal game UIs 👑🔥
-
-🧠 Skills Demonstrated
-✅ DOM Manipulation
-✅ Game Logic + Condition Handling
-✅ Modern UX (press Enter, interactive UI, alerts)
-✅ Polished aesthetics (animations, gradients, glow)
-✅ Multi-page project structure
-✅ Clean file organization
-✅ Deploying static sites
-
-🏗️ Folder Structure
-pgsql
+yaml
 Copy code
-📁 Basic-Project/
- ├── index.html                # Home Page
- │
- ├── guessing-game/
- │   ├── index.html
- │   ├── style.css
- │   ├── script.js
- │
- ├── bmi/
- │   ├── index.html
- │   ├── style.css
- │   ├── script.js
- │
- ├── clock/
- │   ├── index.html
- │   ├── style.css
- │   ├── script.js
- │
- └── assets/ (to be added for images/GIFs)
-📸 Preview Screenshots / GIFs
-Even 3–4 tiny previews will boost recruiter impact ✅
-(Add after deployment)
 
-Place images like:
+---
 
-markdown
+## 🌟 Featured Projects
+
+| Project | Preview | Description | Tech |
+|--------|---------|-------------|-----|
+| 🔢 **Guess The Number** | <img src="./assets/guess.png" width="180"/> | Game logic, attempts tracking, ENTER events, animated victory/lose screens 🎉 | HTML • CSS • JS |
+| ⚖️ **BMI Calculator** | <img src="./assets/bmi.png" width="180"/> | Live BMI calculation with validation and health classification | HTML • CSS • JS |
+| ⏱️ **Digital Clock** | <img src="./assets/clock.png" width="180"/> | Real-time clock with theme switching and AM/PM logic | HTML • CSS • JS |
+| 🎨 **Color Changer** | <img src="./assets/main.png" width="180"/> | Simple yet satisfying UI color switcher | HTML • CSS |
+
+> Every project is polished with **UI animations + Royal color gradients** ✨
+
+---
+
+## 🧠 Core Skills Demonstrated
+
+✅ DOM Manipulation & Events  
+✅ Smooth UX (Enter-to-trigger, alerts, live validation)  
+✅ Animation design (glow, transitions, floating effects)  
+✅ Game logic with win/loss states  
+✅ Scalable project structuring  
+✅ Multi-page navigation  
+✅ Frontend deployment (GitHub Pages)
+
+---
+
+## 📂 Directory Structure
+
+📁 BASIC_PROJECT/
+│
+├── assets
+│ ├── bmi.png
+│ ├── clock.png
+│ ├── guess.png
+│ ├── main.png
+│ └── royal.png
+│
+├── guessnumber
+│ ├── index.html
+│ ├── script.js
+│ ├── style.css
+│ ├── win.html / win.css / win.js
+│ ├── lose.html / lose.css / lose.js
+│
+├── bmi_generator
+│ ├── index.html
+│ └── style.css
+│
+├── digital_clock
+│ ├── index.html
+│ ├── script.js
+│ └── style.css
+│
+├── color_changer
+│ ├── index.html
+│ └── style.css
+│
+├── index.html ← Royal Homepage Dashboard
+└── style.css ← Global Royal Theme
+
+yaml
 Copy code
-![Guess Game Preview](assets/guess-demo.gif)
-![BMI Calculator](assets/bmi-preview.png)
-📌 Future Upgrades
-🧯 Wrong guess shake animation
 
-🎚 Difficulty modes
+---
 
-🔊 Optional sound FX
+## 🌱 Future Enhancements
 
-📱 Fully responsive layouts
+- 🎚 Difficulty levels in Guess game
+- 🎯 “Too High/Too Low” hints
+- 🔊 Sound & particle FX
+- 📱 Fully responsive layouts
+- 🏆 Local storage scoring
 
-🏆 Persistent score / BMI history
+---
 
-🏠 Cinematic animated home menu
+## 🧍‍♂️ About Me
 
-👤 About the Developer
-Hi! I’m Adithya Subhash,
-a student passionate about creative frontend engineering —
-building premium-feeling user experiences with code ✨
+I’m **Adithya Subhash** —  
+Frontend engineer with a belief that:
 
-📌 Seeking opportunities to grow in web dev & product UI engineering
+> *“Function is nothing without experience.”*
 
-<p align="center"> <b>✨ If this impressed you, a ⭐ on the repo would mean a lot! ✨</b> </p> <p align="center"> Made with ❤️, caffeine ☕, and royal gradients 👑 </p> ```
+I love building:
+✨ Visually striking  
+🎮 Interactive  
+👌 Fast-performing  
+web applications.
+
+📌 Seeking roles where I can bring UI/UX to life  
+📫 Reach out → <strong>Your Email / LinkedIn</strong>
+
+---
+
+<p align="center">
+🔥 If this project inspired you, kindly leave a ⭐ — it pushes me to build more! 🔥
+<br><br>
+Made with heart ❤️, ambition 🚀, and gradients 👑
+</p>
