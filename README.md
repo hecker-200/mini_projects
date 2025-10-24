@@ -23,7 +23,7 @@ designed with polished UX, animations, and a bold<br>
 Hosted on GitHub Pages ✅  
 👉 Click below to view all apps in one dashboard:
 
-🔗 [(https://hecker-200.github.io/mini_projects/)]
+🔗 [PROJECT LINK](https://hecker-200.github.io/mini_projects/)
 
 
 ---
@@ -69,7 +69,7 @@ I’m **Adithya Subhash** 🌟
 Frontend engineer who loves crafting **beautiful**, **interactive** and **high-engagement** web experiences.
 
 💼 *Actively seeking frontend opportunities*  
-📫 Let’s connect 👉 **[(https://www.linkedin.com/in/adithya-subhash-00121528a/)]**
+📫 Let’s connect 👉 **[LINKEDIN](https://www.linkedin.com/in/adithya-subhash-00121528a/)**
 
 ---
 
