@@ -25,8 +25,6 @@ Hosted on GitHub Pages ✅
 
 🔗 [(https://hecker-200.github.io/mini_projects/)]
 
-yaml
-Copy code
 
 ---
 
@@ -71,7 +69,7 @@ I’m **Adithya Subhash** 🌟
 Frontend engineer who loves crafting **beautiful**, **interactive** and **high-engagement** web experiences.
 
 💼 *Actively seeking frontend opportunities*  
-📫 Let’s connect 👉 **Add your LinkedIn or Email here**
+📫 Let’s connect 👉 **[(https://www.linkedin.com/in/adithya-subhash-00121528a/)]**
 
 ---
 
