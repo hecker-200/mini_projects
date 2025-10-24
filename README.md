@@ -23,7 +23,7 @@ designed with polished UX, animations, and a bold<br>
 Hosted on GitHub Pages ✅  
 👉 Click below to view all apps in one dashboard:
 
-🔗 https://YOUR-USERNAME.github.io/BASIC_PROJECT/
+🔗 [(https://hecker-200.github.io/mini_projects/)]
 
 yaml
 Copy code
